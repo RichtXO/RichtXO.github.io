@@ -1,0 +1,8 @@
+
+*.xml
+.idea/
+*.DS_Store
+.vscode/
+node_modules
+.cache
+public/

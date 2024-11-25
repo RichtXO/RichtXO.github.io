@@ -1,0 +1,13 @@
+{
+  "name": "Wanna reach out? Contact me via these platforms!",
+  "email": "",
+  "description": "",
+  "image": {
+    "src": "",
+    "alt": ""
+  },
+  "socialProfiles": {
+    "from": ["Instagram", "LinkedIn", "Github", "Mail"],
+    "showIcons": true
+  }
+}

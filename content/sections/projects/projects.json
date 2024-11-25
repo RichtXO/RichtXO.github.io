@@ -1,0 +1,60 @@
+{
+  "projects": [
+    {
+      "visible": true,
+      "category": "\uD83E\uDD16 Discord Music Bot",
+      "title": "Lil Mo",
+      "description": "Another Another Discord bot in java using Discord4J, Lavaplayer, & Spotify Web API. Custom built CI/CD pipelines to a self-hosted server for hosting.",
+      "image": {
+        "src": "../../images/Lil-Mo.png",
+        "alt": "Lil Mo's Logo",
+        "linkTo": "https://github.com/RichtXO/Lil-Mo"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/RichtXO/Lil-Mo"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "\uD83D\uDCC5 Full-Stack Open source",
+      "title": "YACS.n",
+      "description": "Led a student-ran student course scheduler during RPI. Open source project composing of React, FastAPI, and PostgresDB.",
+      "image": {
+        "src": "../../images/yacs.png",
+        "alt": "YACS.n Logo",
+        "linkTo": "https://github.com/YACS-RCOS/yacs.n"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/YACS-RCOS/yacs.n"
+        }
+      ]
+    },
+    {
+      "visible": false,
+      "category": "\uD83E\uDD16 Discord Music Bot",
+      "title": "Lil Tim",
+      "description": "Another Discord bot in java using JDA and Lavaplayer. Custom built CI/CD pipelines to a self-hosted server for hosting.",
+      "image": {
+        "src": "../../images/lil-tim.png",
+        "alt": "Lil Tim's Logo",
+        "linkTo": "https://github.com/RichtXO/Lil-Tim"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/RichtXO/Lil-Tim"
+        }
+      ]
+    }
+  ],
+  "button": {
+    "visible": false,
+    "label": "Visit on Github",
+    "url": ""
+  }
+}

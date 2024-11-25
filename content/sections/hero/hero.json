@@ -1,0 +1,22 @@
+{
+  "intro": "Hello!",
+  "heroPhoto": {
+    "src": "../../images/me.png",
+    "alt": "My Photo"
+  },
+  "image": {
+    "src": "../../images/waving-hand.png",
+    "alt": "Waving Hand Emoji"
+  },
+  "title": "I'm a Software Engineer",
+  "subtitle": {
+    "prefix": "",
+    "highlight": "",
+    "suffix": ""
+  },
+  "description": "Just an engineer with a focus in cybersecurity and automation",
+  "socialProfiles": {
+    "from": ["Github", "LinkedIn", "Instagram", "Mail"],
+    "showIcons": true
+  }
+}
